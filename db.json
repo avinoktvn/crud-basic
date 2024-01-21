@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": [
+        "Product 1"
+      ],
+      "price": "5.994343"
+    },
+    {
+      "id": 2,
+      "title": "Product 2",
+      "price": 5.99
+    },
+    {
+      "id": 3,
+      "title": "Product 34343",
+      "price": [
+        5.99
+      ]
+    },
+    {
+      "title": [
+        "product 4"
+      ],
+      "price": "2334",
+      "id": 4
+    },
+    {
+      "title": "barang 1",
+      "price": "788",
+      "id": 5
+    },
+    {
+      "title": "dasda",
+      "price": "1323",
+      "id": 11
+    }
+  ]
+}
